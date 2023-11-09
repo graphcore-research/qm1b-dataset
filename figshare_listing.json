@@ -1,0 +1,1550 @@
+[
+    {
+        "name": "README.md",
+        "download_url": "https://ndownloader.figshare.com/files/42996943",
+        "computed_md5": "fff351353d487533dca63a5290aeea2d",
+        "size": 384
+    },
+    {
+        "name": "qm1b_validation.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005175",
+        "computed_md5": "1e0e88a4b09e9e2329689f98ff2f08e8",
+        "size": 2522468294
+    },
+    {
+        "name": "part_000.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005205",
+        "computed_md5": "c80988db6b5fe9f7eda450d9fa11c35e",
+        "size": 984902877
+    },
+    {
+        "name": "part_001.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005208",
+        "computed_md5": "c119c88f05f29501b55c576cde62ba1e",
+        "size": 984610022
+    },
+    {
+        "name": "part_002.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005211",
+        "computed_md5": "3ff7c06f1553619419ea46bd64c388d8",
+        "size": 984934905
+    },
+    {
+        "name": "part_003.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005214",
+        "computed_md5": "4547ed76dc6e4d60c12c919dd3ae4c6b",
+        "size": 984921776
+    },
+    {
+        "name": "part_004.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005223",
+        "computed_md5": "f9c1af11bcd2e746aca61debcf28cd0e",
+        "size": 984171856
+    },
+    {
+        "name": "part_005.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005235",
+        "computed_md5": "4716a90f572fb3f9b50260823330aa42",
+        "size": 984872906
+    },
+    {
+        "name": "part_006.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005241",
+        "computed_md5": "989a1f04aa6c3cbc1bffafa95f3ce953",
+        "size": 983803234
+    },
+    {
+        "name": "part_007.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005244",
+        "computed_md5": "fb90e8010b8be77c31bb9f7a8ab516c5",
+        "size": 984873856
+    },
+    {
+        "name": "part_008.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005247",
+        "computed_md5": "0fd3468e1c71d34ec4451c60140cb9e4",
+        "size": 984649241
+    },
+    {
+        "name": "part_009.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005253",
+        "computed_md5": "a6523200ae6703c3f75f8ca3f6193cf6",
+        "size": 984982058
+    },
+    {
+        "name": "part_010.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005259",
+        "computed_md5": "8cd73945df3a49baaa16d9b9ba48b6fe",
+        "size": 984704659
+    },
+    {
+        "name": "part_011.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005265",
+        "computed_md5": "e036e6b477ae98c5847be86f6c5a3b2b",
+        "size": 984969237
+    },
+    {
+        "name": "part_012.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005268",
+        "computed_md5": "939719bdb6a1a0ef2ce8a8a2e662425f",
+        "size": 984504971
+    },
+    {
+        "name": "part_013.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005271",
+        "computed_md5": "408e657066ffa62b71a76d8d7ca5df79",
+        "size": 985043686
+    },
+    {
+        "name": "part_014.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005274",
+        "computed_md5": "def8cdb06b5bb8b97a1b80007921a70b",
+        "size": 984040151
+    },
+    {
+        "name": "part_015.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005277",
+        "computed_md5": "398b505c086b73ae999c8154cae74cc9",
+        "size": 985008817
+    },
+    {
+        "name": "part_016.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005280",
+        "computed_md5": "a6ec9cae93345dbd8673871f40f87008",
+        "size": 985159104
+    },
+    {
+        "name": "part_017.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005286",
+        "computed_md5": "cd1b6d999f8570e38c69d7029d8231d1",
+        "size": 985169223
+    },
+    {
+        "name": "part_018.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005292",
+        "computed_md5": "c16b9e2371135d6d3a40cecd0603d78c",
+        "size": 984962739
+    },
+    {
+        "name": "part_019.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005298",
+        "computed_md5": "32fab469b7179411c5b6a232de5be272",
+        "size": 984243699
+    },
+    {
+        "name": "part_020.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005304",
+        "computed_md5": "e5236b237a406580d1462d49c4bd045a",
+        "size": 984754747
+    },
+    {
+        "name": "part_021.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005307",
+        "computed_md5": "63f1f40f7c3ac80568561767de69854e",
+        "size": 985002126
+    },
+    {
+        "name": "part_022.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005313",
+        "computed_md5": "b9ece81a6e9537295e04fd1875778bd0",
+        "size": 985040971
+    },
+    {
+        "name": "part_023.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005319",
+        "computed_md5": "6af0d1d8c5a935230072253881ed6ef7",
+        "size": 984676647
+    },
+    {
+        "name": "part_024.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005322",
+        "computed_md5": "37ade6a24bf415d468ad40dcec89a8b5",
+        "size": 984693957
+    },
+    {
+        "name": "part_025.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005325",
+        "computed_md5": "0569d3869521ae506b4f87bb3f7361af",
+        "size": 984864846
+    },
+    {
+        "name": "part_026.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005331",
+        "computed_md5": "ef4ba2dee26413cdc8bc4771b507d83c",
+        "size": 985333975
+    },
+    {
+        "name": "part_027.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005337",
+        "computed_md5": "3e542f910bdd6ad9087f6e0d14fb6ed7",
+        "size": 985664059
+    },
+    {
+        "name": "part_028.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005343",
+        "computed_md5": "4607c0669ca10e834c8023e408cb9232",
+        "size": 984386159
+    },
+    {
+        "name": "part_029.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005346",
+        "computed_md5": "6a6247103cdc73a7003495e77d023196",
+        "size": 983750580
+    },
+    {
+        "name": "part_030.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005349",
+        "computed_md5": "ac1fa6e6a3fdd69923eb0d9fb0602642",
+        "size": 984876805
+    },
+    {
+        "name": "part_031.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005352",
+        "computed_md5": "639c60b2ff0454b1026acf4d51e9d0ff",
+        "size": 984397789
+    },
+    {
+        "name": "part_032.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005355",
+        "computed_md5": "788a8fd3577e167f93799ecb87f21c42",
+        "size": 984036334
+    },
+    {
+        "name": "part_033.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005358",
+        "computed_md5": "8879ef378ad4f19415b3a3f41c882250",
+        "size": 984065141
+    },
+    {
+        "name": "part_034.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005364",
+        "computed_md5": "25ece57d667b1ddb59c2422c75f48f03",
+        "size": 984953748
+    },
+    {
+        "name": "part_035.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005370",
+        "computed_md5": "828a32a922941aa989451186a9ff7d33",
+        "size": 984736405
+    },
+    {
+        "name": "part_036.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005406",
+        "computed_md5": "ae6b6b3d7a5fb46edd54f56a8edc1081",
+        "size": 984075753
+    },
+    {
+        "name": "part_037.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005409",
+        "computed_md5": "cb5607eb026e2c72f0b3d10672022691",
+        "size": 984671632
+    },
+    {
+        "name": "part_038.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005415",
+        "computed_md5": "710f912aceb748a08b22448e2802143a",
+        "size": 984602134
+    },
+    {
+        "name": "part_039.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005418",
+        "computed_md5": "4d861ae408527fc27e4f9838297f5a24",
+        "size": 984057560
+    },
+    {
+        "name": "part_040.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005421",
+        "computed_md5": "da5dbae890e80f9370c90d76bc847a00",
+        "size": 984254307
+    },
+    {
+        "name": "part_041.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005424",
+        "computed_md5": "86943acacefb2d9c3c5e3f3b740a7634",
+        "size": 985510304
+    },
+    {
+        "name": "part_042.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005427",
+        "computed_md5": "59ca7953416c7f95f4be04adad936957",
+        "size": 985041718
+    },
+    {
+        "name": "part_043.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005430",
+        "computed_md5": "79698232490a7e7515274aed3d2c76ff",
+        "size": 984012077
+    },
+    {
+        "name": "part_044.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005433",
+        "computed_md5": "2ca2b5ba708f35eb7235e015f6a285d0",
+        "size": 984676475
+    },
+    {
+        "name": "part_045.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005436",
+        "computed_md5": "34907b879f662c65e98f561261c8e6cd",
+        "size": 985339489
+    },
+    {
+        "name": "part_046.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005439",
+        "computed_md5": "7cc519587135c179946e17a59577ab90",
+        "size": 984149103
+    },
+    {
+        "name": "part_047.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005442",
+        "computed_md5": "840fd8a7733ed8291b2b613ffda6db92",
+        "size": 985096739
+    },
+    {
+        "name": "part_048.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005448",
+        "computed_md5": "f0398c83adf96d315a64ebe7b5700e62",
+        "size": 984525544
+    },
+    {
+        "name": "part_049.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005454",
+        "computed_md5": "3d729093e33990118c3c827636aad1c8",
+        "size": 984300746
+    },
+    {
+        "name": "part_050.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005457",
+        "computed_md5": "d2cac5242b3e0adf84d885e6e3c59f28",
+        "size": 984676426
+    },
+    {
+        "name": "part_051.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005460",
+        "computed_md5": "4f343973605fdbae5cbd8c243e810dc6",
+        "size": 984194149
+    },
+    {
+        "name": "part_052.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005463",
+        "computed_md5": "2d493eab32154398221e207e204d4ac0",
+        "size": 984365117
+    },
+    {
+        "name": "part_053.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005466",
+        "computed_md5": "788ef7c65eba47aa4fba2f9ce980994b",
+        "size": 983791476
+    },
+    {
+        "name": "part_054.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005469",
+        "computed_md5": "39ce1ce0740aca21ad99a4d27756fb11",
+        "size": 984324203
+    },
+    {
+        "name": "part_055.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005472",
+        "computed_md5": "0baa0de4e82b79a1970a14249a6eda85",
+        "size": 984813391
+    },
+    {
+        "name": "part_056.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005475",
+        "computed_md5": "8ba33e2aa284813c55e5be608bcebf61",
+        "size": 985002260
+    },
+    {
+        "name": "part_057.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005478",
+        "computed_md5": "7405e1f4c52ac9fa08848e8998813d1c",
+        "size": 984442001
+    },
+    {
+        "name": "part_058.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005481",
+        "computed_md5": "8843a27195c5602ec0aa9aa97e497dd7",
+        "size": 985707730
+    },
+    {
+        "name": "part_059.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005484",
+        "computed_md5": "6c0a69dc64c574c6f1eb6eef74e95583",
+        "size": 984400767
+    },
+    {
+        "name": "part_060.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005487",
+        "computed_md5": "68850ae26c91854410b5a3d3b2abcd02",
+        "size": 984840531
+    },
+    {
+        "name": "part_061.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005490",
+        "computed_md5": "404da13a7ed9835c4af4dcffb77aa8ae",
+        "size": 985048496
+    },
+    {
+        "name": "part_062.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005496",
+        "computed_md5": "5df44d37222cf8b4567ac141442ea65c",
+        "size": 984652874
+    },
+    {
+        "name": "part_063.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005499",
+        "computed_md5": "0a38e7dae8d99a4aecd6cba76caf45d9",
+        "size": 984402784
+    },
+    {
+        "name": "part_064.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005502",
+        "computed_md5": "5baa8b0438cd3dadbb126a4c5be9a9df",
+        "size": 985291026
+    },
+    {
+        "name": "part_065.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005505",
+        "computed_md5": "479de9e83e505ba4c518919d078e32c8",
+        "size": 984615364
+    },
+    {
+        "name": "part_066.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005508",
+        "computed_md5": "9f9faf5e2810d470e9aa2090b3eee17a",
+        "size": 984660450
+    },
+    {
+        "name": "part_067.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005511",
+        "computed_md5": "2600003e1434b23e801ee56fb066b685",
+        "size": 984116839
+    },
+    {
+        "name": "part_068.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005514",
+        "computed_md5": "4ffbd81e25bedefab7ee4213ba46cf37",
+        "size": 984723221
+    },
+    {
+        "name": "part_069.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005517",
+        "computed_md5": "b5de50feb6c0c5c38aee409aff71bbb8",
+        "size": 984627726
+    },
+    {
+        "name": "part_070.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005520",
+        "computed_md5": "7dc31bca7d79d396d833cfa34bd6ff7f",
+        "size": 984811484
+    },
+    {
+        "name": "part_071.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005523",
+        "computed_md5": "5bd7f3f44685b0da91657589161d632f",
+        "size": 984903387
+    },
+    {
+        "name": "part_072.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005526",
+        "computed_md5": "4e57a1181204ea678e20cfa157a012e1",
+        "size": 984828464
+    },
+    {
+        "name": "part_073.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005532",
+        "computed_md5": "82385273d6f0d8be8ca2d603dca7dce3",
+        "size": 984548649
+    },
+    {
+        "name": "part_074.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005538",
+        "computed_md5": "8f7ea2f7c35a105f8aef23c1065102eb",
+        "size": 985591615
+    },
+    {
+        "name": "part_075.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005544",
+        "computed_md5": "18e0d68238a530a197590fd0903dfc48",
+        "size": 984682284
+    },
+    {
+        "name": "part_076.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005547",
+        "computed_md5": "d40ce5b64de76edb096844bb34d3961a",
+        "size": 985179826
+    },
+    {
+        "name": "part_077.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005550",
+        "computed_md5": "763ab1f5706517c11196dcefe2db8a62",
+        "size": 984519115
+    },
+    {
+        "name": "part_078.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005553",
+        "computed_md5": "968f68b7551b74dcf612f289763c833c",
+        "size": 984239294
+    },
+    {
+        "name": "part_079.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005556",
+        "computed_md5": "b29775dc201b9547aa0df1f5f340311c",
+        "size": 985057736
+    },
+    {
+        "name": "part_080.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005559",
+        "computed_md5": "465774b721dd1e4fe6083311bf3410a7",
+        "size": 984591155
+    },
+    {
+        "name": "part_081.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005562",
+        "computed_md5": "934d50e7113a7ccce92aa2895efeaf91",
+        "size": 985300689
+    },
+    {
+        "name": "part_082.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005577",
+        "computed_md5": "0f2847605d3a86a6f057cc4d6f1b07ad",
+        "size": 984301589
+    },
+    {
+        "name": "part_083.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005580",
+        "computed_md5": "a0a9ac3eba7ff715ae7576973ad11992",
+        "size": 984736899
+    },
+    {
+        "name": "part_084.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005583",
+        "computed_md5": "55bceff38420171bf2fd998b24a694a7",
+        "size": 984523166
+    },
+    {
+        "name": "part_085.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005589",
+        "computed_md5": "904f973121180e832193d33f5a7d021a",
+        "size": 984540033
+    },
+    {
+        "name": "part_086.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005592",
+        "computed_md5": "b5b87d1e1047bb258ab7bf7619a15fcf",
+        "size": 984693338
+    },
+    {
+        "name": "part_087.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005598",
+        "computed_md5": "6e518dc76b992be09524fd285bd12775",
+        "size": 985410058
+    },
+    {
+        "name": "part_088.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005601",
+        "computed_md5": "f04aeee52946f622a353efa9705287e6",
+        "size": 984844476
+    },
+    {
+        "name": "part_089.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005616",
+        "computed_md5": "1f7aa65fcde8012abb6f2d8c7d76d052",
+        "size": 984686572
+    },
+    {
+        "name": "part_090.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005622",
+        "computed_md5": "a057626f3ebafc5135b77fa204858790",
+        "size": 985476493
+    },
+    {
+        "name": "part_091.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005625",
+        "computed_md5": "183188be0aad185e3513c6117a582fee",
+        "size": 985282086
+    },
+    {
+        "name": "part_092.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005628",
+        "computed_md5": "8926f8b5469e0fc6c7bb93557caa60b9",
+        "size": 984563102
+    },
+    {
+        "name": "part_093.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005634",
+        "computed_md5": "8b30e05df27cdb305c9d569855ddb8f9",
+        "size": 984302865
+    },
+    {
+        "name": "part_094.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005637",
+        "computed_md5": "9621108949a70b529fe7e2cf7a28e2d0",
+        "size": 983916600
+    },
+    {
+        "name": "part_095.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005646",
+        "computed_md5": "3e2f4266485c36850d2246565bf3a005",
+        "size": 984998853
+    },
+    {
+        "name": "part_096.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005649",
+        "computed_md5": "92abea7643cf46f2251d9e4ae7637a09",
+        "size": 985303907
+    },
+    {
+        "name": "part_097.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005658",
+        "computed_md5": "9320dfcdbe67bc7a01cf2661c0a91e45",
+        "size": 983912073
+    },
+    {
+        "name": "part_098.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005661",
+        "computed_md5": "503c5fee0982264a502006f358c59194",
+        "size": 984677957
+    },
+    {
+        "name": "part_099.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43005676",
+        "computed_md5": "dfe00873c9ae9750b13a19d68b0f563b",
+        "size": 984935914
+    },
+    {
+        "name": "part_100.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006159",
+        "computed_md5": "c23baaacc2244757e4d8d635399dbf82",
+        "size": 984556769
+    },
+    {
+        "name": "part_101.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006162",
+        "computed_md5": "4546ff0e1f1e1eea5afe517468e60a7f",
+        "size": 985022107
+    },
+    {
+        "name": "part_102.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006165",
+        "computed_md5": "51f9d5a154e48f4686a096a5462645b1",
+        "size": 984516035
+    },
+    {
+        "name": "part_103.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006168",
+        "computed_md5": "7f7bfc79c2d02aba0cb2b29d8c57b356",
+        "size": 984886386
+    },
+    {
+        "name": "part_104.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006171",
+        "computed_md5": "054713d7d6cb39321c8f09b4bf8726e3",
+        "size": 984755378
+    },
+    {
+        "name": "part_105.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006174",
+        "computed_md5": "19526f361cdd579f1662eb4afc74b4c1",
+        "size": 984860612
+    },
+    {
+        "name": "part_106.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006177",
+        "computed_md5": "b1d16b0efb33891bf19acf5fee994da4",
+        "size": 984928296
+    },
+    {
+        "name": "part_107.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006180",
+        "computed_md5": "d1c1cc34752e4eede69703537b9ebbec",
+        "size": 984347773
+    },
+    {
+        "name": "part_108.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006186",
+        "computed_md5": "3684a93954f11b9c40dde3a53d546e68",
+        "size": 983872300
+    },
+    {
+        "name": "part_109.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006207",
+        "computed_md5": "2e61f7c8910c881b4e3082f4539207ff",
+        "size": 984593493
+    },
+    {
+        "name": "part_110.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006210",
+        "computed_md5": "201c40a89e504bb08cea3bb8fdf8a8dd",
+        "size": 984978174
+    },
+    {
+        "name": "part_111.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006213",
+        "computed_md5": "02405e288f8821d2b21a4605d5725f0c",
+        "size": 984407618
+    },
+    {
+        "name": "part_112.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006219",
+        "computed_md5": "b925b53d755dad522fb80c78b99ac9f1",
+        "size": 984466616
+    },
+    {
+        "name": "part_113.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006222",
+        "computed_md5": "f607a0ee3b32c7e156e02665d0d1c284",
+        "size": 985204297
+    },
+    {
+        "name": "part_114.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006228",
+        "computed_md5": "a1c05bc12a481adad6318304efd48c9c",
+        "size": 984608294
+    },
+    {
+        "name": "part_115.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006231",
+        "computed_md5": "3bfd6c849e810acfec3b5809ed04d1ec",
+        "size": 983987375
+    },
+    {
+        "name": "part_116.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006273",
+        "computed_md5": "a4bdc1f16116fd2bb50c3233dd935a97",
+        "size": 984911230
+    },
+    {
+        "name": "part_117.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006276",
+        "computed_md5": "55dacc16b730221d6d35464b052be0a5",
+        "size": 984626372
+    },
+    {
+        "name": "part_118.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006279",
+        "computed_md5": "1a55870d2c7d8eec234e978781afc953",
+        "size": 984949042
+    },
+    {
+        "name": "part_119.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006282",
+        "computed_md5": "797ddb5c18ecc0a5c80d272153ec786e",
+        "size": 984679265
+    },
+    {
+        "name": "part_120.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006288",
+        "computed_md5": "6bf9128bd4924e8197b117a9e564e3bd",
+        "size": 984474000
+    },
+    {
+        "name": "part_121.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006294",
+        "computed_md5": "70e2e48130de7d15208cbf373f03d6cb",
+        "size": 984887556
+    },
+    {
+        "name": "part_122.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006303",
+        "computed_md5": "22bbe749926bb9b5e4d61b62589231f7",
+        "size": 985254419
+    },
+    {
+        "name": "part_123.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006318",
+        "computed_md5": "1a591d9f0d103531f932f6e05a34e46e",
+        "size": 984088795
+    },
+    {
+        "name": "part_124.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006324",
+        "computed_md5": "b7e98cddbf709192350ff265f69a0af0",
+        "size": 984957295
+    },
+    {
+        "name": "part_125.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006330",
+        "computed_md5": "145240c6de6d4402f1f52cc4c3187a6c",
+        "size": 985288175
+    },
+    {
+        "name": "part_126.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006333",
+        "computed_md5": "e55e7afa6666e84ffabd0d23e00025a7",
+        "size": 984723694
+    },
+    {
+        "name": "part_127.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006336",
+        "computed_md5": "0033d566340304ce9796a13b55c1ae85",
+        "size": 985140789
+    },
+    {
+        "name": "part_128.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006345",
+        "computed_md5": "e106319baef581dd3ae3651eae86b084",
+        "size": 985356460
+    },
+    {
+        "name": "part_129.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006354",
+        "computed_md5": "c082f8459cbc2d09730735892fb9131f",
+        "size": 984501975
+    },
+    {
+        "name": "part_130.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006372",
+        "computed_md5": "c903ec0e8bddf42a20ffb37e0a30a4bd",
+        "size": 985640689
+    },
+    {
+        "name": "part_131.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006381",
+        "computed_md5": "5d36ef987f21decdc3f1d97142b93d55",
+        "size": 984616939
+    },
+    {
+        "name": "part_132.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006384",
+        "computed_md5": "66d437686dbbfb8520cd247618b2f220",
+        "size": 985053065
+    },
+    {
+        "name": "part_133.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006390",
+        "computed_md5": "c6f69b57c6a6c62ab85b556cb6ae573b",
+        "size": 984117726
+    },
+    {
+        "name": "part_134.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006396",
+        "computed_md5": "b224c666b0b1d51039d5e86309e6a377",
+        "size": 984531075
+    },
+    {
+        "name": "part_135.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006405",
+        "computed_md5": "18e74198633336943d65e056f09fd011",
+        "size": 984671498
+    },
+    {
+        "name": "part_136.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006408",
+        "computed_md5": "103ed35579336e3907e41dd4a51a740f",
+        "size": 984718813
+    },
+    {
+        "name": "part_137.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006411",
+        "computed_md5": "e41027ee2e8b5094fe25e9689dc01d6f",
+        "size": 984459650
+    },
+    {
+        "name": "part_138.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006423",
+        "computed_md5": "6985f969531874f7f9b4f4a85e05ea0f",
+        "size": 985534374
+    },
+    {
+        "name": "part_139.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006432",
+        "computed_md5": "670e94d378c571f5dd5dfcfb27960613",
+        "size": 984913387
+    },
+    {
+        "name": "part_140.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006456",
+        "computed_md5": "833b18e6b595848a80ae25e6895bbe0b",
+        "size": 983828304
+    },
+    {
+        "name": "part_141.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006468",
+        "computed_md5": "",
+        "size": 984597103
+    },
+    {
+        "name": "part_142.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006471",
+        "computed_md5": "4b9c62d6a15c05ea4849ec344602c6fa",
+        "size": 984552321
+    },
+    {
+        "name": "part_143.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006477",
+        "computed_md5": "708595b15689080bf33bad35895b9dbc",
+        "size": 984794402
+    },
+    {
+        "name": "part_144.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006486",
+        "computed_md5": "bec4694325419906403dd53012937a90",
+        "size": 984795384
+    },
+    {
+        "name": "part_145.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006489",
+        "computed_md5": "2257a4e8717b1a731b659dcbdf56c6b5",
+        "size": 985153918
+    },
+    {
+        "name": "part_146.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006492",
+        "computed_md5": "af2f5a727195aac61a58c9f59e47fca5",
+        "size": 984558679
+    },
+    {
+        "name": "part_147.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006498",
+        "computed_md5": "3f8de02289ab6cec433aef1c501f72fd",
+        "size": 984112189
+    },
+    {
+        "name": "part_148.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006501",
+        "computed_md5": "35031bbb4d3f7240ca1e221983663d16",
+        "size": 984258133
+    },
+    {
+        "name": "part_149.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006513",
+        "computed_md5": "c58bdcf63aac6275c42782d5dd270ac3",
+        "size": 985145628
+    },
+    {
+        "name": "part_150.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006516",
+        "computed_md5": "9f29c41848ac02cec92065934f5b24da",
+        "size": 984821500
+    },
+    {
+        "name": "part_151.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006522",
+        "computed_md5": "d812056a39b42e5e8be1948a91680243",
+        "size": 984672786
+    },
+    {
+        "name": "part_152.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006525",
+        "computed_md5": "3399a24c208d591f20b76bf00f82a6a0",
+        "size": 985040396
+    },
+    {
+        "name": "part_153.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006528",
+        "computed_md5": "a8d380e8d2a822c6b9a0ba4d5fb59af6",
+        "size": 985064318
+    },
+    {
+        "name": "part_154.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006531",
+        "computed_md5": "f0f1fa5469d5eaec97aa1c01d01975d7",
+        "size": 985179403
+    },
+    {
+        "name": "part_155.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006534",
+        "computed_md5": "4194511bbaf06aca4671e45c566af524",
+        "size": 984932499
+    },
+    {
+        "name": "part_156.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006537",
+        "computed_md5": "fe2bd12f42a4713d108f6628351eb1ed",
+        "size": 984280586
+    },
+    {
+        "name": "part_157.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006543",
+        "computed_md5": "6e1ac88e2b46142d1a557c15741322ef",
+        "size": 984302200
+    },
+    {
+        "name": "part_158.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006546",
+        "computed_md5": "d1ce4d9ba27cfcbbac9a649b42fc949c",
+        "size": 984516290
+    },
+    {
+        "name": "part_159.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006576",
+        "computed_md5": "ee5e805b2cb77c8a8b06a708460807a7",
+        "size": 985430759
+    },
+    {
+        "name": "part_160.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006579",
+        "computed_md5": "3fc1f6e8c40673aeb4108ec22b7bc593",
+        "size": 984769713
+    },
+    {
+        "name": "part_161.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006603",
+        "computed_md5": "03ab9c2a2334328e7d0ceee2ffd402d0",
+        "size": 985132121
+    },
+    {
+        "name": "part_162.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006609",
+        "computed_md5": "170c341694b66a5603b1b91162996985",
+        "size": 983888108
+    },
+    {
+        "name": "part_163.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006615",
+        "computed_md5": "60038b84365abf95cc48c6372eed6d95",
+        "size": 984752801
+    },
+    {
+        "name": "part_164.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006621",
+        "computed_md5": "4ef35a07597db49d2727f01acedfac09",
+        "size": 985319516
+    },
+    {
+        "name": "part_165.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006624",
+        "computed_md5": "d88a5b05d11a0eb6655d7de20f16bebd",
+        "size": 984458559
+    },
+    {
+        "name": "part_166.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006627",
+        "computed_md5": "64ec2cd2eb227041e04387c8ba437a42",
+        "size": 984736330
+    },
+    {
+        "name": "part_167.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006630",
+        "computed_md5": "1d941301b8de4f6783640b8b6b595f96",
+        "size": 984390331
+    },
+    {
+        "name": "part_168.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006633",
+        "computed_md5": "25cf93edc9d8c5a56357f731550e5b74",
+        "size": 984041554
+    },
+    {
+        "name": "part_169.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006639",
+        "computed_md5": "b67ac4d8e83a4e3c840a2dd1802463d4",
+        "size": 985025440
+    },
+    {
+        "name": "part_170.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006645",
+        "computed_md5": "7809cef5d10b288c9dbad43c1ddbb8f3",
+        "size": 984781721
+    },
+    {
+        "name": "part_171.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006651",
+        "computed_md5": "8a078b0df67cd230d79199896da3982f",
+        "size": 984896197
+    },
+    {
+        "name": "part_172.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006654",
+        "computed_md5": "79fba5df10cdf8c227782b3351722c41",
+        "size": 985340045
+    },
+    {
+        "name": "part_173.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006660",
+        "computed_md5": "804ca7761f8e0bb5edd7d8d3a15b3997",
+        "size": 984819788
+    },
+    {
+        "name": "part_174.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006663",
+        "computed_md5": "0db80492009f1db980eec31294858be9",
+        "size": 984093498
+    },
+    {
+        "name": "part_175.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006666",
+        "computed_md5": "08c230915b677d52edb0221111f660ab",
+        "size": 984768746
+    },
+    {
+        "name": "part_176.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006669",
+        "computed_md5": "a562dcc82e7f7e9d00b9a9cf3ee08300",
+        "size": 984336051
+    },
+    {
+        "name": "part_177.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006672",
+        "computed_md5": "6c8ee02664b133174ff3b3b68fc9116d",
+        "size": 984336717
+    },
+    {
+        "name": "part_178.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006681",
+        "computed_md5": "45aa74bc6d787c9c7e7ea9f68aafb42e",
+        "size": 984412413
+    },
+    {
+        "name": "part_179.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006690",
+        "computed_md5": "bdf81ee5706119cfb84a05143a72c3a4",
+        "size": 984605952
+    },
+    {
+        "name": "part_180.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006696",
+        "computed_md5": "42a4d301a746e346ed3dfa7c52e4c69c",
+        "size": 983964869
+    },
+    {
+        "name": "part_181.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006699",
+        "computed_md5": "0decebb4b4fae5b77cb4de24a94981a7",
+        "size": 985065171
+    },
+    {
+        "name": "part_182.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006711",
+        "computed_md5": "928f0931587925e343237d8ee3cdcaf6",
+        "size": 984981742
+    },
+    {
+        "name": "part_183.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006717",
+        "computed_md5": "40ddc75ceff4d8b47a282f8e2faec672",
+        "size": 985099875
+    },
+    {
+        "name": "part_184.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006738",
+        "computed_md5": "85689288f8e1f856916ebb77b3ee7902",
+        "size": 984453375
+    },
+    {
+        "name": "part_185.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006747",
+        "computed_md5": "ba8c25636f85953e49946c8b14301ac8",
+        "size": 984667589
+    },
+    {
+        "name": "part_186.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006756",
+        "computed_md5": "0fbd28a85177c0f8792918f32322475d",
+        "size": 984890699
+    },
+    {
+        "name": "part_187.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006762",
+        "computed_md5": "64ab4d593f843ab4c85760c1efb0b170",
+        "size": 984753916
+    },
+    {
+        "name": "part_188.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006765",
+        "computed_md5": "8e458f59c8e7300042e4133e0d365a48",
+        "size": 983920426
+    },
+    {
+        "name": "part_189.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006768",
+        "computed_md5": "c2a483cffa0a97c82e44b448afe6a000",
+        "size": 984118119
+    },
+    {
+        "name": "part_190.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006771",
+        "computed_md5": "f72ccf53ed5eeb160ac6c706906b458c",
+        "size": 984665025
+    },
+    {
+        "name": "part_191.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006777",
+        "computed_md5": "add296af01a418828bccff22c0993de9",
+        "size": 985270700
+    },
+    {
+        "name": "part_192.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006780",
+        "computed_md5": "fbef32e0132e38075f67d6f1e075dc1d",
+        "size": 985327364
+    },
+    {
+        "name": "part_193.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006786",
+        "computed_md5": "203a1ab466aa58787a31462b97f48c1c",
+        "size": 984853578
+    },
+    {
+        "name": "part_194.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006789",
+        "computed_md5": "b0981bd88f4dd0d5448df2f2babc316b",
+        "size": 983899391
+    },
+    {
+        "name": "part_195.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006795",
+        "computed_md5": "ef3d82eb17702b54a8a24031c01db4cc",
+        "size": 986034403
+    },
+    {
+        "name": "part_196.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006798",
+        "computed_md5": "097c033cf297343bb9837b7d0424d082",
+        "size": 984588147
+    },
+    {
+        "name": "part_197.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006801",
+        "computed_md5": "51c52b0a2814b646138b5ca0b8daa041",
+        "size": 984650441
+    },
+    {
+        "name": "part_198.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006804",
+        "computed_md5": "8083bbc18c9e968268d3b5bcba245b58",
+        "size": 984880306
+    },
+    {
+        "name": "part_199.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006816",
+        "computed_md5": "00c4cfa68ccb39a8855cfe2ab2c50498",
+        "size": 985125319
+    },
+    {
+        "name": "part_200.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006822",
+        "computed_md5": "76ae906431467f919465e6c87845d47c",
+        "size": 984607539
+    },
+    {
+        "name": "part_201.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006837",
+        "computed_md5": "8eb382b9e32fbabd502896ecbdef5ce8",
+        "size": 984748407
+    },
+    {
+        "name": "part_202.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006840",
+        "computed_md5": "a1fe9410d20b325c244f7a9d410c8b71",
+        "size": 984345246
+    },
+    {
+        "name": "part_203.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006846",
+        "computed_md5": "418bd8c3d950a7bc24c65c99a1e5f3ae",
+        "size": 984876196
+    },
+    {
+        "name": "part_204.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006855",
+        "computed_md5": "0d0f615d2850dcd62e621a2979f770cc",
+        "size": 984403837
+    },
+    {
+        "name": "part_205.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006858",
+        "computed_md5": "2219e03ecb0267b649246206bba6ddd9",
+        "size": 984758294
+    },
+    {
+        "name": "part_206.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006861",
+        "computed_md5": "92b7cc298bcd5bb76d48a9eab0c0de78",
+        "size": 984585379
+    },
+    {
+        "name": "part_207.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006864",
+        "computed_md5": "e0a280d287e856830722d316c9003f45",
+        "size": 984032800
+    },
+    {
+        "name": "part_208.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006867",
+        "computed_md5": "4814cbd3fa74a7d77e2ba632cf1ccfb8",
+        "size": 985304731
+    },
+    {
+        "name": "part_209.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006870",
+        "computed_md5": "cb48438f35684142f707081b19cc96ff",
+        "size": 984935258
+    },
+    {
+        "name": "part_210.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006873",
+        "computed_md5": "aa1a785d97d151e714f340298ab286fa",
+        "size": 984018126
+    },
+    {
+        "name": "part_211.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006876",
+        "computed_md5": "e7282a8a5b7886c4dee88d33d9206ad1",
+        "size": 984331163
+    },
+    {
+        "name": "part_212.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006882",
+        "computed_md5": "a7bbc6fbc28639a7c644652a95ce1fb7",
+        "size": 984303122
+    },
+    {
+        "name": "part_213.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006897",
+        "computed_md5": "4a86c1ee4fc73c53bf5b6318d48de131",
+        "size": 984806586
+    },
+    {
+        "name": "part_214.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006900",
+        "computed_md5": "a86a189b94bf01ca94a0735bf796ed76",
+        "size": 984664473
+    },
+    {
+        "name": "part_215.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006903",
+        "computed_md5": "c994686908a0344677b7e1e96721ef80",
+        "size": 984348878
+    },
+    {
+        "name": "part_216.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006909",
+        "computed_md5": "9e5a697e5f1427293dca15837f03f07c",
+        "size": 984872559
+    },
+    {
+        "name": "part_217.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006912",
+        "computed_md5": "f18437278349ac426a99de735bce1c62",
+        "size": 985084081
+    },
+    {
+        "name": "part_218.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006927",
+        "computed_md5": "eecf144d6bb7c16680cbfc100c8c49b8",
+        "size": 984899181
+    },
+    {
+        "name": "part_219.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006930",
+        "computed_md5": "1dc3bd7dc684129ae989c7bb7c410467",
+        "size": 985207996
+    },
+    {
+        "name": "part_220.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006933",
+        "computed_md5": "6984aab8be1ab866050778de8d95f8ca",
+        "size": 984000111
+    },
+    {
+        "name": "part_221.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006939",
+        "computed_md5": "ecf1de74a2b45954b7e494ce642a6f23",
+        "size": 984235165
+    },
+    {
+        "name": "part_222.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006942",
+        "computed_md5": "d1af6a2e0f7d478a423217e4dd212c00",
+        "size": 984542486
+    },
+    {
+        "name": "part_223.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006948",
+        "computed_md5": "011e0b91e928443050d2769ef4a62b80",
+        "size": 984921789
+    },
+    {
+        "name": "part_224.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006951",
+        "computed_md5": "db09a5ed0b320e0e1e0e73655f4f3094",
+        "size": 983980122
+    },
+    {
+        "name": "part_225.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006954",
+        "computed_md5": "1fd932fcc64c6f8ac591e4b22a089031",
+        "size": 984259613
+    },
+    {
+        "name": "part_226.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006957",
+        "computed_md5": "31bb76363e5c44fde544e00ee6ff56c7",
+        "size": 984437007
+    },
+    {
+        "name": "part_227.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006966",
+        "computed_md5": "a3a61eb30c5a90b4afd39ebd13365c3d",
+        "size": 984461335
+    },
+    {
+        "name": "part_228.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006969",
+        "computed_md5": "e04a2faa274073a3828cde0f792d1fc2",
+        "size": 984986340
+    },
+    {
+        "name": "part_229.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006978",
+        "computed_md5": "4a4cb30976d32ced65ec8e2d5448a0b7",
+        "size": 984712287
+    },
+    {
+        "name": "part_230.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006984",
+        "computed_md5": "74f093f325e0282242dc69177efc4813",
+        "size": 984629355
+    },
+    {
+        "name": "part_231.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006993",
+        "computed_md5": "f466de17c5620eecb493dea4909e2112",
+        "size": 985435772
+    },
+    {
+        "name": "part_232.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006996",
+        "computed_md5": "a9e578efba4ffa067798c5f00b48ecca",
+        "size": 985018852
+    },
+    {
+        "name": "part_233.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43006999",
+        "computed_md5": "586a54f3eaca54fe478ecaa84478b14c",
+        "size": 984583647
+    },
+    {
+        "name": "part_234.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43007002",
+        "computed_md5": "52b5e8cc8f1a8524ca7070cca1bfe8db",
+        "size": 985311260
+    },
+    {
+        "name": "part_235.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43007005",
+        "computed_md5": "84802d8bd3f40b5e5049bb4bc570008c",
+        "size": 984418213
+    },
+    {
+        "name": "part_236.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43007008",
+        "computed_md5": "8699377bf4b929b62b60bdaff827fd47",
+        "size": 983940612
+    },
+    {
+        "name": "part_237.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43007011",
+        "computed_md5": "e4d941d1e782b956aa483ab41df2ff53",
+        "size": 984719948
+    },
+    {
+        "name": "part_238.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43007014",
+        "computed_md5": "deb0ad0750126add79e73a6307c1dbc3",
+        "size": 985103855
+    },
+    {
+        "name": "part_239.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43007017",
+        "computed_md5": "62d88c35ac3c5a2d9b29905ce1f30b58",
+        "size": 983902246
+    },
+    {
+        "name": "part_240.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43007032",
+        "computed_md5": "ea0bf78a409fb004a7ce13d7da813da2",
+        "size": 984755342
+    },
+    {
+        "name": "part_241.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43007035",
+        "computed_md5": "8b5a009bfbc5999f9c071fdbe2d1ff15",
+        "size": 984640304
+    },
+    {
+        "name": "part_242.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43007041",
+        "computed_md5": "3cc649b6417994bb6f824d6e06f54a72",
+        "size": 985015293
+    },
+    {
+        "name": "part_243.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43007044",
+        "computed_md5": "194f7a3707970876411008572328709a",
+        "size": 984457319
+    },
+    {
+        "name": "part_244.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43007047",
+        "computed_md5": "26e478cf326c1fb3cf3a8e9afedd63f2",
+        "size": 984187957
+    },
+    {
+        "name": "part_245.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43007050",
+        "computed_md5": "9291ec75295d2a3196ca9acde66f0dc2",
+        "size": 984041552
+    },
+    {
+        "name": "part_246.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43007053",
+        "computed_md5": "c8ed874f5ce8ffe304985cf200d1f085",
+        "size": 985567231
+    },
+    {
+        "name": "part_247.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43007056",
+        "computed_md5": "6800de540bec42a4274abfeca036e8e5",
+        "size": 984139131
+    },
+    {
+        "name": "part_248.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43007062",
+        "computed_md5": "3cee73d502ed8b12babf678e25550e60",
+        "size": 984726220
+    },
+    {
+        "name": "part_249.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43007068",
+        "computed_md5": "63b9cb1c99da7600406092e557b605fc",
+        "size": 984717305
+    },
+    {
+        "name": "part_250.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43007080",
+        "computed_md5": "e0044a7def83c2ccf85b2ff3fc42ab6f",
+        "size": 984170622
+    },
+    {
+        "name": "part_251.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43007098",
+        "computed_md5": "34eef1e8f41ad90d30a844a5b61c4b55",
+        "size": 984428852
+    },
+    {
+        "name": "part_252.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43007110",
+        "computed_md5": "985cbe4aab23e6fce716a3f13c08a6b6",
+        "size": 985126275
+    },
+    {
+        "name": "part_253.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43007119",
+        "computed_md5": "0b3089bf24e837d9b741672de3e169ec",
+        "size": 984654454
+    },
+    {
+        "name": "part_254.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43007122",
+        "computed_md5": "5f93a3e1514735f5a21938f6945baf48",
+        "size": 985132691
+    },
+    {
+        "name": "part_255.parquet",
+        "download_url": "https://ndownloader.figshare.com/files/43007125",
+        "computed_md5": "afa55cd58cd158b9fe3c4e55fc0a3b2a",
+        "size": 985091722
+    }
+]
