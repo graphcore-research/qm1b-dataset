@@ -3,6 +3,7 @@ import hashlib
 import json
 import os
 import os.path as osp
+
 import warnings
 import requests
 from jsonargparse import CLI
@@ -67,6 +68,7 @@ def download(root: str, max_threads: int = 8):
             warnings.warn(f"Unexpected MD5 digest for file: {f}")
 
     print(f"QM1B dataset downloaded to: {dst_root}")
+
 
 if __name__ == "__main__":
     CLI(download)
