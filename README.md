@@ -52,3 +52,15 @@ import pandas as pd
 # 20m entries in the validation set.
 print(pd.read_parquet("qm1b_val.parquet").head())
 ```
+
+## Cite
+Please use the following citation for the QM1B dataset
+
+```
+@inproceedings{mathiasen2023qm1b,
+  title={Generating QM1B with PySCF $ \_ $\{$$\backslash$text $\{$IPU$\}$$\}$ $},
+  author={Mathiasen, Alexander and Helal, Hatem and Klaeser, Kerstin and Balanca, Paul and Dean, Josef and Luschi, Carlo and Beaini, Dominique and Fitzgibbon, Andrew William and Masters, Dominic},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+  year={2023}
+}
+```
