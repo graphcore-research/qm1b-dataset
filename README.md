@@ -1,5 +1,8 @@
 # QM1B dataset
 
+[![arXiv](https://img.shields.io/badge/arXiv-2311.01135-b31b1b.svg)](https://arxiv.org/abs/2311.01135)
+[![QM1B figshare+](https://img.shields.io/badge/figshare%2B-24459376-blue)](https://doi.org/10.25452/figshare.plus.24459376)
+
 QM1B is a low-resolution DFT dataset generated using [PySCF IPU](https://github.com/graphcore-research/pyscf-ipu). It is composed of one billion training examples containing 9-11 heavy atoms. It was created by taking 1.09M SMILES strings from the [GDB-11 database](https://zenodo.org/record/5172018) and computing molecular properties (e.g. HOMO-LUMO gap) for a set of up to 1000 conformers per molecule.
 
 This repository contains utilities for accessing the QM1B dataset but not the raw data as that is stored elsewhere.
@@ -51,4 +54,16 @@ import pandas as pd
 
 # 20m entries in the validation set.
 print(pd.read_parquet("qm1b_val.parquet").head())
+```
+
+## Cite
+Please use the following citation for the QM1B dataset
+
+```
+@inproceedings{mathiasen2023qm1b,
+  title={Generating QM1B with PySCF $ \_ $\{$$\backslash$text $\{$IPU$\}$$\}$ $},
+  author={Mathiasen, Alexander and Helal, Hatem and Klaeser, Kerstin and Balanca, Paul and Dean, Josef and Luschi, Carlo and Beaini, Dominique and Fitzgibbon, Andrew William and Masters, Dominic},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+  year={2023}
+}
 ```
