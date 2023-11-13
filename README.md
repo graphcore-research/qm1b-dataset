@@ -19,6 +19,8 @@ The QM1B dataset is made available under the [Creative Commons 4.0 license](./LI
 
 ## Download
 
+First check that you have at least 240 GB of storage available.
+
 Prepare your python environment:
 ```bash
 pip install -r requirements.txt
